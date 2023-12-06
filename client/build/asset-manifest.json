@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0acba81b.css",
+    "main.js": "/static/js/main.74f00422.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Ajay-Resume.pdf": "/static/media/Ajay-Resume.1cb51126e028b3762113.pdf",
+    "static/media/intro-bg.jpg": "/static/media/intro-bg.3eb4a5ef388cc92f6dc2.jpg",
+    "index.html": "/index.html",
+    "main.0acba81b.css.map": "/static/css/main.0acba81b.css.map",
+    "main.74f00422.js.map": "/static/js/main.74f00422.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0acba81b.css",
+    "static/js/main.74f00422.js"
+  ]
+}
